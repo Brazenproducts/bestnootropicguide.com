@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bestnootropicguide.com/sitemap.xml
